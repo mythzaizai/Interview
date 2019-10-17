@@ -1,0 +1,1 @@
+<img src="/piano.jpg" width="1200" height="800" />
